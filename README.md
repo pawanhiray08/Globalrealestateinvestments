@@ -49,6 +49,6 @@ See [ijcrt.org/viewfulltext.php?&p_id=ijcrt2104700 ](ijcrt.org/viewfulltext.php?
 
 ## Authors
 
-- [@Sivasankaranxyz](https://www.github.com/sivasankaranxyz)
+- Pawan Hiray
 
 
